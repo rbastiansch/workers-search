@@ -1,2 +1,22 @@
 # workers-search
-A Vue.js project made to consume an API.
+
+> A Vue.js project to consume an API
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# start project at localhost:8080
+npm start
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
